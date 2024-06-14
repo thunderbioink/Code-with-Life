@@ -5,7 +5,7 @@ the basics when solving a problem get fuzzy.
 Don't forget FOR loops. Because they can make
 a difference in your code and in your life too
 
-P.S. I added this code block as my LinkedIn Backgroun Imaage.
+P.S. I added this code block as my LinkedIn background image.
 Only those who discover it will understand it (muahaha)
 
 """
